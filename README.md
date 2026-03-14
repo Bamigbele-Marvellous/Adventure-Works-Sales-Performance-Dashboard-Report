@@ -1,4 +1,13 @@
 # Adventure-Works-Sales-Performance-Dashboard-Report
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data cleaning and preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 This project analyzes sales performance for Adventure Works, focusing on revenue generation, profit margins, transaction volume, and sales trends across time and locations. The objective is to identify key drivers of profitability and understand sales patterns.
 ### Data Sources
