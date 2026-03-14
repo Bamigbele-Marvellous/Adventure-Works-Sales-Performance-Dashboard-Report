@@ -10,6 +10,9 @@
 
 ### Project Overview
 This project analyzes sales performance for Adventure Works, focusing on revenue generation, profit margins, transaction volume, and sales trends across time and locations. The objective is to identify key drivers of profitability and understand sales patterns.
+
+<img width="1044" height="540" alt="Image" src="https://github.com/user-attachments/assets/808529e5-6e7e-42d1-9d7e-5dfe87d73c72" />
+
 ### Data Sources
 The dataset includes sales transaction records containing:
 - Product sales quantity
